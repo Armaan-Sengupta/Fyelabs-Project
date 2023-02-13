@@ -2,6 +2,14 @@ import laspy
 import open3d as o3d
 import numpy as np
 
+"""
+By: Armaan Sengupta
+Date: 2023-02-12
+Fyelabs LIDAR Project
+
+Assits the main program in cleaning the data
+"""
+
 DEBUG=True
 
 def debug(var):

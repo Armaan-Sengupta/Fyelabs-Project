@@ -2,7 +2,14 @@ import laspy
 import open3d as o3d
 import numpy as np
 
-FILENAME="sick_pointcloud"
+"""
+By: Armaan Sengupta
+Date: 2023-02-12
+Fyelabs LIDAR Project
+Note: This does not complete any of the questions. It is a very simple script that just reads the file and displays it in 3d
+"""
+
+FILENAME="Pennsylvania"
 
 #read file
 print("Please wait file reading...")

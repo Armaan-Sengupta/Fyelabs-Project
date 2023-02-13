@@ -1,6 +1,13 @@
 import math
 import matplotlib.pyplot as plt
 
+"""
+By: Armaan Sengupta
+Date: 2023-02-12
+Fyelabs LIDAR Project
+Completes question 10 of the assignment
+"""
+
 
 averagePointList = [[1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [1,1,1], [2,2,2],
 [2,2,2], [2,2,2], [2,2,2], [2,2,2], [2,2,2], [2,2,2], [2,2,2], [2,2,2], [5,5,5], [2,2,2], [2,2,2], [2,2,2], [2,2,2],
